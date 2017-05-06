@@ -12,11 +12,11 @@ sklearn - pip install sklearn
 
 •	To run this code in python2, you need to install following libraries :-
 
-pandas - pip2 install pandas
-numpy  - pip2 install numpy
-scipy  - pip2 install scipy
-matplotlib - pip2 install matplotlib
-sklearn - pip2 install sklearn
+pandas - pip2 install pandas  
+numpy  - pip2 install numpy  
+scipy  - pip2 install scipy  
+matplotlib - pip2 install matplotlib  
+sklearn - pip2 install sklearn  
 
 •	Open Terminal :-
 1.	Go to the folder containing the code and input file.
